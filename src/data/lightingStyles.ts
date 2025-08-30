@@ -1,0 +1,22 @@
+export const lightingStyles = [
+  "Soft lighting", "Diffuse lighting", "Moody lighting", "Natural lighting", "Overcast lighting", 
+  "Warm lighting", "Cool lighting", "Studio lighting", "Top-down lighting", "Ambient lighting", 
+  "Directional lighting", "Shadowed lighting", "Balanced lighting", "Daylight", "Dusk lighting", 
+  "Sunlit", "Low-key lighting", "High contrast lighting", "Indirect lighting", "Highlighted surface", 
+  "Even lighting", "Side lighting", "Warm ambient light", "Cold ambient light", "Flash lighting", 
+  "Spot lighting", "Reflected light", "Hard lighting", "Dappled lighting", "Neon lighting", 
+  "Tungsten light", "Fluorescent lighting", "Halogen lighting", "Monochrome lighting", "Twilight glow", 
+  "Sunset glow", "Blue hour lighting", "Backlighting", "Cinematic lighting", "Softbox lighting", 
+  "Harsh shadows", "Golden hour light", "Faint glows", "Shaded light", "Urban lighting", 
+  "Indoor ambient light", "Soft rim lighting", "Contour lighting", "Flat lighting", "Dual-tone lighting", 
+  "Gradient lighting", "Subsurface lighting", "Broad lighting", "Compact lighting", "Zen lighting", 
+  "Soft glare", "Harsh highlights", "Accent lighting", "Subtle spotlight", "Ring light", 
+  "Flashback lighting", "Cozy indoor light", "Twilight hue", "Silhouetted lighting", "Soft reflection", 
+  "High-contrast ambient", "Filtered sunlight", "Overexposed lighting", "Underexposed light", "Directional shadowing", 
+  "Clear noon light", "Rainy daylight", "Fog-lit", "Frosted light", "Warm candlelight", 
+  "Spotlight fade", "Gentle window light", "Light falloff", "Prism light", "Golden haze", 
+  "Hazy silhouette", "Matte-lit surface", "Gentle sunbeam", "Diffused ceiling light", "Light refraction", 
+  "Soft prism scatter", "Abstract bounce lighting", "Rim-lit", "Reflective haze", "Highlight bloom", 
+  "Intense beam light", "Nightshade glow", "Interior softbox", "Studio rim-glow", "Subtle skylight", 
+  "Warm floor reflection", "Dust-lit light"
+];

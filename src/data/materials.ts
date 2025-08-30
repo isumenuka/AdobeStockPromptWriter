@@ -1,0 +1,23 @@
+export const materials = [
+  "Oak wood", "Pine wood", "Walnut wood", "Teak wood", "Mahogany wood", 
+  "Maple wood", "Birch wood", "Cherry wood", "Rosewood", "Ash wood", 
+  "Bamboo wood", "Ebony wood", "Cedar wood", "Fir wood", "Beech wood", 
+  "Redwood", "Acacia wood", "Hickory wood", "Sycamore wood", "Chestnut wood", 
+  "White marble", "Black marble", "Carrara marble", "Calacatta marble", "Travertine", 
+  "Onyx stone", "Granite", "Sandstone", "Slate stone", "Basalt stone", 
+  "Quartz stone", "Blue stone", "Soapstone", "Volcanic rock", "Serpentine stone", 
+  "Jade stone", "Obsidian", "Dolomite", "Limestone", "Fossil stone", 
+  "Brushed steel", "Polished brass", "Aged copper", "Oxidized iron", "Aluminum", 
+  "Chrome", "Galvanized metal", "Rusted iron", "Pewter", "Titanium", 
+  "Bronze", "Zinc metal", "Gold-plated metal", "Silver brushed metal", "Blackened steel", 
+  "Linen fabric", "Cotton fabric", "Silk fabric", "Velvet fabric", "Wool texture", 
+  "Denim fabric", "Canvas fabric", "Polyester textile", "Burlap texture", "Satin fabric", 
+  "Fleece", "Microfiber", "Suede fabric", "Tweed", "Corduroy", 
+  "Concrete", "Plaster wall", "Stucco", "Brick wall", "Adobe clay", 
+  "Asphalt texture", "Cement screed", "Mortar surface", "Cobblestone", "Paving tiles", 
+  "Natural leather", "Faux leather", "Reptile skin texture", "Crocodile leather", "Ostrich leather", 
+  "Tree bark", "Cork texture", "Charcoal", "Dried mud", "Burnt wood", 
+  "Carbon fiber", "Kevlar weave", "Plastic texture", "Rubber surface", "Acrylic sheet", 
+  "Glossy vinyl", "Holographic foil", "Glitter surface", "Terrazzo", "Mosaic tile", 
+  "Wicker", "Tiled ceramic"
+];
